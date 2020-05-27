@@ -1,9 +1,16 @@
+
+
 Métodos Avançados de Programação
+
 UNIESP Faculdades
-Professora
-Drª Alana Morais (alanamm.prof@gmail.com)
-Aluno
-Antony William Ramalho Vieira
+
+
+
+Professora:Drª Alana Morais (alanamm.prof@gmail.com)
+
+
+
+Aluno:Antony William Ramalho Vieira
 
 Padrão Comportamental:
 Iterator
